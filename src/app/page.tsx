@@ -40,7 +40,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroBillboard
-          title="Fly Smart. Fly IndiGo."
+          title="Fly fly"
           description="Experience India's favorite airline with on-time performance, affordable fares, and exceptional service across 100+ destinations."
           tag="India's Leading Airline"
           tagIcon={Plane}
